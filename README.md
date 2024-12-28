@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on android apps development.<br>👯 I’m looking to collaborate on any programming topic :).<br>🌱 I’m currently learning design patterns in java.<br>⚡ Fun fact i like dogs.
+🔭 I’m currently working on android apps development.<br>👯 I’m looking to collaborate on any programming topic :).<br>🌱 I’m currently learning Compose mutli-platform.<br>⚡ Fun fact i like dogs.
 
 
 ## 🌐 Socials:
